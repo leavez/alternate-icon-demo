@@ -23,6 +23,9 @@ class ViewController: UIViewController {
     }
 
     func setIcon(name:String?) {
+        guard #available(iOS 9.3, *) else {
+            return
+        }
         UIApplication.shared.setAlternateIconName(name) { (error) in
             if let error = error {
                 print(error)
