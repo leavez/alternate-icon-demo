@@ -1,4 +1,4 @@
-# alternate-icon-demo
+# Alternate Icon Demo
 
 Demo for changing icon dynamically for iOS app.
 
