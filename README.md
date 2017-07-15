@@ -4,7 +4,7 @@ Demo for changing icon dynamically for iOS app.
 
 There are many similar examples on github. What's different here is it talks much about **how to provide different sizes of the alternate icon**, like the default one specific in the asset catelog.
 
-<p align="center"><img src="/animation.gif" width="512"></p>
+<p align="center"><img src="/animation.gif" width="300"></p>
 
 ## TLDR
 
