@@ -4,6 +4,7 @@ Demo for changing icon dynamically for iOS app.
 
 There are many similar examples on github. What's different here is it talks much about **how to provide different sizes of the alternate icon**, like the default one specific in the asset catelog.
 
+![](./animation.gif)
 ## TLDR
 
 This function is implemented using the new API intruduced in 10.3. The steps are very simple:
